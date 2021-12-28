@@ -11,4 +11,8 @@ function setWelcomeText(){
         element.text(welcomeTextDict[key])
     }
 }
-var welcomeTextDict = { "en" : "Archives"};
+var welcomeTextDict = { "en" : "Archives",
+                        "es" : "Archivo",
+                        "de" : "Arkiv",
+                        "he" : "אַרְכִיוֹן",
+                        "sv" : "Archiv"};
