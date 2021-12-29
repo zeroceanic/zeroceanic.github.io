@@ -12,7 +12,7 @@
   <param name="custom.css.source" select="/var/www/ccms/usr/michael/xsl/custom/assets/layout-37268/61cb5096f06e5.css"/>
   <param name="portal.logo.filename" select="/var/www/ccms/usr/michael/xsl/custom/assets/layout-37268/61c4e960321a0.svg"/>
   <param name="portal.background.filename" select=""/>
-  <param name="portal.background.filename.out" select="/paligo/tmp/michael/production-61cb9a499124e5.25705169/37236-Paligo_Literary_Festival-html5/out/css/image/portal-bg.jpg"/>
+  <param name="portal.background.filename.out" select="/paligo/tmp/michael/production-61cc66ff404128.23479065/37236-Paligo_Literary_Festival-html5/out/css/image/portal-bg.jpg"/>
   <param name="company.name" select="Paligo"/>
   <param name="copyright.year" select=""/>
   <param name="copyright"> © 2021 Paligo </param>
@@ -92,9 +92,9 @@
   <param name="slides.revealjs.theme.custom" select=""/>
   <param name="slides.revealjs.background.image.opacity" select="1"/>
   <param name="slides.revealjs.default.background.image" select=""/>
-  <param name="slides.revealjs.default.background.image.out" select="/paligo/tmp/michael/production-61cb9a499124e5.25705169/37236-Paligo_Literary_Festival-html5/out/css/image/default_slide_background.png"/>
+  <param name="slides.revealjs.default.background.image.out" select="/paligo/tmp/michael/production-61cc66ff404128.23479065/37236-Paligo_Literary_Festival-html5/out/css/image/default_slide_background.png"/>
   <param name="slides.revealjs.logo" select=""/>
-  <param name="slides.revealjs.logo.out" select="/paligo/tmp/michael/production-61cb9a499124e5.25705169/37236-Paligo_Literary_Festival-html5/out/css/image/logo-light.png"/>
+  <param name="slides.revealjs.logo.out" select="/paligo/tmp/michael/production-61cc66ff404128.23479065/37236-Paligo_Literary_Festival-html5/out/css/image/logo-light.png"/>
   <param name="slides.revealjs.logo.alt" select=""/>
-  <param name="slides.revealjs.logo.alt.out" select="/paligo/tmp/michael/production-61cb9a499124e5.25705169/37236-Paligo_Literary_Festival-html5/out/css/image/logo-dark.png"/>
+  <param name="slides.revealjs.logo.alt.out" select="/paligo/tmp/michael/production-61cc66ff404128.23479065/37236-Paligo_Literary_Festival-html5/out/css/image/logo-dark.png"/>
 </params>
