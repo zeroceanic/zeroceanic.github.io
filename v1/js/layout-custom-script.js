@@ -11,7 +11,7 @@ function setWelcomeText(){
         element.text(welcomeTextDict[key])
     }
 }
-var welcomeTextDict = { "en" : "Archives V1",
+var welcomeTextDict = { "en" : "Archives",
                         "es" : "Archivo",
                         "de" : "Arkiv",
                         "he" : "אַרְכִיוֹן",
@@ -19,7 +19,7 @@ var welcomeTextDict = { "en" : "Archives V1",
 
 
 $(document).ready(function () {
-var tabs = '<div class="tab"><button class="tablinks writing" >Writing</button><button class="tablinks reading" >Reading</button><button class="tablinks writingreading" >Writing about Reading</button><button class="tablinks reading" >Reading About Writing</button><button class="tablinks sleeping" >Sleeping</button></div>'
+var tabs = '<div class="tab"><button class="tablinks writing" >Writing</button><button class="tablinks reading" >Reading</button><button class="tablinks sleeping" >Sleeping</button></div>'
 $(".sidebar:has(.condition-tabcontent)").prepend(tabs);
 
 $(".tablinks.writing").click(function () {
@@ -28,14 +28,6 @@ openLit(event, 'condition-writing');
 
 $(".tablinks.reading").click(function () {
 openLit(event, 'condition-reading');
-});
-
-$(".tablinks.writingreading").click(function () {
-openLit(event, 'condition-writingreading');
-});
-
-$(".tablinks.readingwriting").click(function () {
-openLit(event, 'condition-readingwriting');
 });
 
 $(".tablinks.sleeping").click(function () {
