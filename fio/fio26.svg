@@ -1,0 +1,6 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+<path d="M4 13V11C4 6.58172 7.58172 3 12 3V3C16.4183 3 20 6.58172 20 11V12.5" stroke="#07A254" stroke-width="2" stroke-linejoin="round"/>
+<rect x="2" y="10" width="4" height="7" rx="1" fill="#07A254"/>
+<rect x="18" y="10" width="4" height="7" rx="1" fill="#07A254"/>
+<path d="M4 15L7 19H12.5" stroke="#07A254" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
