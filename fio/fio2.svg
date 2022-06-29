@@ -1,9 +1,0 @@
-<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
-<path d="M19 11L18.2785 6.6712C18.1178 5.70683 17.2834 5 16.3057 5H7.69425C6.71658 5 5.8822 5.70683 5.72147 6.6712L5 11M19 11H5M19 11L20.4142 12.4142C20.7893 12.7893 21 13.298 21 13.8284V14.5279C21 14.8384 20.9277 15.1446 20.7889 15.4223L20.0528 16.8944C19.714 17.572 19.0215 18 18.2639 18H5.73607C4.97852 18 4.286 17.572 3.94721 16.8944L3.21115 15.4223C3.07229 15.1446 3 14.8384 3 14.5279V13.8284C3 13.298 3.21071 12.7893 3.58579 12.4142L5 11" stroke="#07A254" stroke-width="2"/>
-<path d="M3.5 17.5H5.5V20C5.5 20.2761 5.27614 20.5 5 20.5H4C3.72386 20.5 3.5 20.2761 3.5 20V17.5Z" fill="#07A254" stroke="#07A254"/>
-<path d="M18.5 17.5H20.5V20C20.5 20.2761 20.2761 20.5 20 20.5H19C18.7239 20.5 18.5 20.2761 18.5 20V17.5Z" fill="#07A254" stroke="#07A254"/>
-<path d="M3 9H5" stroke="#07A254" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M19 9H21" stroke="#07A254" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<circle cx="7.5" cy="14.5" r="1" fill="#07A254" stroke="#07A254"/>
-<circle cx="16.5" cy="14.5" r="1" fill="#07A254" stroke="#07A254"/>
-</svg>
