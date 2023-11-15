@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="50" viewBox="0 0 50 50" version="1.1">
+    <!-- Generator: Sketch 44 (41411) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon/Colour/EarthquakeCoverage</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="13.3792201 7.01941256 13.3792201 6.26833709 13.3792201 3.26415412 13.3792201 2.51307864 13.3792201 1.01098715 13.3792201 0.25997114 12.3910434 0.25997114 7.45031645 0.25997114 6.46213976 0.25997114 6.46213976 1.01104661 6.46213976 2.5131381 6.46213976 3.26421357 6.46213976 6.26839655 6.46213976 7.01947202 7.45031645 7.01947202 12.3910434 7.01947202"/>
+    </defs>
+    <g id="Approved" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon/Colour/EarthquakeCoverage">
+            <g id="Earthquake" transform="translate(0.000000, -1.000000)">
+                <g id="COLOUR---Home">
+                    <g id="Group-2" transform="translate(6.035044, 0.000000)">
+                        <polygon id="Shape" fill="#F3F3F3" points="1.76408988 14.818355 1.76408988 34.9793822 15.32491 34.9793822 33.2656948 34.9793822 33.2656948 14.818355 14.3141874 14.818355"/>
+                        <rect id="Rectangle-path" fill="#C7171D" x="22.5803504" y="6.75015599e-16" width="5.0402568" height="4.4102247"/>
+                        <polygon id="Shape" fill="#ED1C24" points="29.755191 3.52817976 25.3339407 3.52817976 22.0179593 3.52817976 14.2807276 3.52817976 5.52660657 3.52817976 0 16.1610529 1.10535632 16.1610529 14.2807276 16.1610529 34.1764413 16.1610529 35.2817976 16.1610529"/>
+                        <polygon id="Shape-Copy" fill="#D8D8D8" points="1.76408988 16.2296269 33.2656948 32.6104615 33.2656948 16.2296269 14.3141874 16.2296269"/>
+                        <rect id="Rectangle-10" fill="#F4B92C" x="7.40917749" y="19.7578066" width="9.07987437" height="13.3789169"/>
+                        <g id="Path-6" transform="translate(17.176665, 19.497835)">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"/>
+                            </mask>
+                            <use id="Mask" fill="#1B9FD6" xlink:href="#path-1"/>
+                            <polygon fill="#9E9E9E" transform="translate(3.579748, 9.325989) rotate(-15.000000) translate(-3.579748, -9.325989) " points="1.25203547 12.6748175 3.68061881 9.38539379 1.35123894 7.31244667 5.90746006 5.43741072 3.52755068 7.89558764 5.48358646 9.86849752 3.26641266 13.2145682"/>
+                        </g>
+                    </g>
+                    <rect id="Combined-Shape" fill="#47A60E" x="0" y="32.4963925" width="45.1235622" height="13.3789169"/>
+                </g>
+                <polygon id="Path-3" fill="#8B572A" points="19.850318 32.5435413 18.105133 36.6595394 22.5876676 39.4519715 19.850318 44.429115 27.0702022 38.9827504 21.8067658 36.0962475 22.9476304 32.4963925"/>
+            </g>
+        </g>
+    </g>
+</svg>
